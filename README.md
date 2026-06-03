@@ -6,7 +6,7 @@ Hey, I'm **Trevor** — cloud/infrastructure engineer, electronic music producer
 - 🎛️ **Music:** Producing as **dreamingrobots** — releases on Spotify, Beatport & SoundCloud. Latest track: *Crystal Falls* (May 2026). Live shows in Denver.
 - 🏫 **Teaching:** Operating Systems & CompTIA A+ at the Community College of Aurora.
 - 💬 **Let's collaborate on:** open-source tools for artists, real-time visuals, cloud/DevOps projects, or anything that bridges art + tech.
-- 📫 **Reach me:** vex@dreamingrobots.net · [Instagram](https://instagram.com/dreamingrobots) · [SoundCloud](https://soundcloud.com/dreamingrobots)
+- 📫 **Reach me:** vex@dreamingrobots.net · [Instagram](https://instagram.com/dreamingrobots) · [SoundCloud](https://soundcloud.com/dreamingr0b0ts)
 
 <!---
 dreamingr0b0ts/dreamingr0b0ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
